@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImaniNgugi50
-- 👀 I’m interested in Front end engineering.
+- 👀 I’m interested in Front end engineering and IoT.
 - 🌱 I’m currently learning html,CSS and Javascript.
 - 💞️ I’m looking to collaborate on any web dev project.
 - 📫 Reach me on my e-mail address nmaureen10@gmail.com
